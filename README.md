@@ -24,7 +24,7 @@ duvan = {
                   "Soy Henry — Full Stack Developer (2021 - 2022)",
                   "Politécnico JIC — Ingeniería Civil (2019 - 2021)"],
     "pasion":    "Transformar datos complejos en decisiones estratégicas claras",
-    "enfoque":   ["People Analytics", "Automatización ETL", "Dashboards BI", "IA Aplicada"],
+    "enfoque":   ["Automatización ETL", "Dashboards BI", "IA Aplicada"],
 }
 ```
 
