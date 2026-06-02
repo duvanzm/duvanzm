@@ -117,9 +117,13 @@ Soy un analista de datos apasionado por convertir grandes volúmenes de informac
 
 <div align="center">
 
-![Duvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duvanzm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6)
+![Duvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duvanzm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duvanzm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duvanzm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=duvanzm&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=2E75B6&currStreakLabel=2E75B6)
+
+![Profile Views](https://komarev.com/ghpvc/?username=duvanzm&style=for-the-badge&color=2E75B6)
 
 </div>
 
