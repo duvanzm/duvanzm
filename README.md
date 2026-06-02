@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Duvan Alexander Zuluaga Macias
+# 👋 Hola, soy Duvan Zuluaga 
 
 ### 📊 Data Analyst & Business Intelligence
 ### 🤖 Python · Power BI · SQL · Cloud · IA
@@ -17,7 +17,7 @@
 
 ```python
 duvan = {
-    "nombre":    "Duvan Alexander Zuluaga Macias",
+    "nombre":    "Duvan Zuluaga ",
     "rol":       "Data Analyst & Business Intelligence",
     "ubicacion": "Medellín, Colombia 🇨🇴",
     "formacion": ["RIWI.io — Análisis e Ingeniería de Datos (2025 - Actualidad)",
@@ -117,9 +117,13 @@ Soy un analista de datos apasionado por convertir grandes volúmenes de informac
 
 <div align="center">
 
-![Duvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duvanzm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=2E75B6&count_private=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duvanzm&theme=tokyonight)](https://github.com/duvanzm)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duvanzm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&count_private=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duvanzm&theme=tokyonight)](https://github.com/duvanzm)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duvanzm&theme=tokyonight)](https://github.com/duvanzm)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=duvanzm&theme=tokyonight)](https://github.com/duvanzm)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duvanzm&theme=tokyonight&utcOffset=-5)](https://github.com/duvanzm)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=duvanzm&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=2E75B6&currStreakLabel=2E75B6)
 
