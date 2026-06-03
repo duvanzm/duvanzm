@@ -88,7 +88,7 @@ Soy un analista de datos apasionado por convertir grandes volúmenes de informac
 
 | Tech Stack | Tools |
 |---|---|
-| Python · Pandas · SQL · REST APIs · Power BI · Looker Studio | Git · GitHub |
+| Python · Pandas · SQL · REST APIs · Power BI  | Git · GitHub |
 
 **Logros clave:**
 - 🔌 Ingesta desde múltiples fuentes vía SQL y REST APIs hacia repositorio centralizado
