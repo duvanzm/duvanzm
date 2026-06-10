@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hola, soy Duvan Zuluaga 
+#  Hola, soy Duvan Zuluaga 
 
 ### 📊 Data Analyst & Business Intelligence
-### 🤖 Python · Power BI · SQL · Cloud · IA
+###  Python · Power BI · SQL · Cloud · IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duvan-zuluaga)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duvanzm)
