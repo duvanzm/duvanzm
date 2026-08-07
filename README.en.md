@@ -84,56 +84,14 @@ I act as a **strategic partner** between business areas and technical teams, tra
 
 ## 🚀 Featured Projects
 
-### 🔄 Data Platform — People Analytics
-> End-to-end data architecture to centralize, process and visualize HR data
+<div align="center">
 
-**Riwi** · February 2026 – July 2026
+[![Data Nexus](https://github-readme-stats.vercel.app/api/pin/?username=The-Data-Nexus&repo=Data-Nexus&theme=tokyonight)](https://github.com/The-Data-Nexus/Data-Nexus)
+[![Spark S3 Financial ETL](https://github-readme-stats.vercel.app/api/pin/?username=Orion-Data-Analysis&repo=Spark_S3_Financial_ETL&theme=tokyonight)](https://github.com/Orion-Data-Analysis/Spark_S3_Financial_ETL)
 
-**What it solves:** Centralizes and processes data from multiple HR sources (employee master, payroll, attendance), eliminating manual processes and generating near real-time intelligence, applying clustering for data segmentation.
+[![RUNdurance](https://github-readme-stats.vercel.app/api/pin/?username=Riwi-io-Medellin&repo=rundurance-integrative-project-mccarthy&theme=tokyonight)](https://github.com/Riwi-io-Medellin/rundurance-integrative-project-mccarthy)
 
-| Tech Stack | Tools |
-|---|---|
-| Python · Pandas · Apache Spark · Apache Airflow · AWS S3 · Power BI | Git · GitHub · Docker |
-
-**Key achievements:**
-- ⚡ Automated ETL pipelines with Python + Pandas, cutting data consolidation time by **80%**
-- 🔀 Implemented Apache Airflow for orchestration and Apache Spark for large-scale processing, enabling near real-time updates
-- 📊 Built KPI dashboards (turnover, absenteeism, headcount, performance) in Power BI integrated with AWS S3/Redshift, with automatic refresh
-- 🤖 Applied K-Means to segment employees by attrition risk profile, supporting preventive talent retention decisions
-
----
-
-### 🏃 RUNdurance
-> Web platform for running coaches: athlete management, training plans and .FIT file analysis
-
-**Riwi** · December 2025 – March 2026
-
-**What it solves:** Unifies coach, athlete and service management in a single, simple and maintainable platform, with financial tracking and exportable progress reports.
-
-| Tech Stack | Tools |
-|---|---|
-| JavaScript · Node.js · HTML5 · CSS3 · SQL · AI | Git · GitHub · Docker · Postman |
-
-**Key achievements:**
-- 🔐 Designed the backend architecture with Node.js and SQL, with secure authentication and role-based access (admin, coach, athlete)
-- 📱 Built a responsive interface for mobile and desktop
-- 📋 Implemented a reporting module with Excel export for athlete progress analysis
-
----
-
-## 💼 Professional Experience
-
-### Morichal Ltda
-**August 2024 – November 2025**
-
-Responsible for ensuring the accuracy, control and optimization of production costs and inventory levels through financial analysis, data reconciliation and strategic reporting for senior management.
-
-**Key achievements:**
-- 📈 Developed monthly executive financial reports that supported strategic decision-making
-- ⏱️ Reduced processing and monthly cost settlement time
-- 🤖 Automated cost and inventory reports using Excel and Power BI
-
-**Tech stack:** Excel · Power BI · SQL
+</div>
 
 ---
 

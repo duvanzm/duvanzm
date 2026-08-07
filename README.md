@@ -84,56 +84,14 @@ Actúo como **socio estratégico** entre las áreas de negocio y los equipos té
 
 ## 🚀 Proyectos Destacados
 
-### 🔄 Data Platform — People Analytics
-> Arquitectura de datos de extremo a extremo para centralizar, procesar y visualizar información de gestión humana
+<div align="center">
 
-**Riwi** · Febrero 2026 – Julio 2026
+[![Data Nexus](https://github-readme-stats.vercel.app/api/pin/?username=The-Data-Nexus&repo=Data-Nexus&theme=tokyonight)](https://github.com/The-Data-Nexus/Data-Nexus)
+[![Spark S3 Financial ETL](https://github-readme-stats.vercel.app/api/pin/?username=Orion-Data-Analysis&repo=Spark_S3_Financial_ETL&theme=tokyonight)](https://github.com/Orion-Data-Analysis/Spark_S3_Financial_ETL)
 
-**¿Qué resuelve?** Centraliza y procesa datos de múltiples fuentes de RRHH (maestro de empleados, nómina, asistencia) eliminando procesos manuales y generando inteligencia en tiempo casi real, aplicando clustering para segmentación de datos.
+[![RUNdurance](https://github-readme-stats.vercel.app/api/pin/?username=Riwi-io-Medellin&repo=rundurance-integrative-project-mccarthy&theme=tokyonight)](https://github.com/Riwi-io-Medellin/rundurance-integrative-project-mccarthy)
 
-| Tech Stack | Tools |
-|---|---|
-| Python · Pandas · Apache Spark · Apache Airflow · AWS S3 · Power BI | Git · GitHub · Docker |
-
-**Logros clave:**
-- ⚡ Automaticé pipelines ETL con Python + Pandas, reduciendo el tiempo de consolidación de datos en un **80%**
-- 🔀 Implementé Apache Airflow para orquestación y Apache Spark para procesamiento de grandes volúmenes, logrando actualizaciones en tiempo casi real
-- 📊 Construí dashboards de KPIs (rotación, ausentismo, headcount, desempeño) en Power BI integrado con AWS S3/Redshift, con actualización automática
-- 🤖 Apliqué K-Means para segmentar empleados por perfil de riesgo de retiro, apoyando decisiones preventivas de retención de talento
-
----
-
-### 🏃 RUNdurance
-> Plataforma web para entrenadores de running: gestión de atletas, planes de entrenamiento y análisis de archivos .FIT
-
-**Riwi** · Diciembre 2025 – Marzo 2026
-
-**¿Qué resuelve?** Unifica la gestión de entrenadores, atletas y servicios en una sola plataforma simple y fácil de mantener, con seguimiento financiero y reportes de progreso exportables.
-
-| Tech Stack | Tools |
-|---|---|
-| JavaScript · Node.js · HTML5 · CSS3 · SQL · IA | Git · GitHub · Docker · Postman |
-
-**Logros clave:**
-- 🔐 Diseñé la arquitectura backend con Node.js y SQL, con autenticación segura y roles diferenciados (admin, entrenador, atleta)
-- 📱 Desarrollé una interfaz responsive adaptada a móvil y escritorio
-- 📋 Implementé módulo de reportes con exportación a Excel para análisis de progreso deportivo
-
----
-
-## 💼 Experiencia Profesional
-
-### Morichal Ltda
-**Agosto 2024 – Noviembre 2025**
-
-Responsable de garantizar la exactitud, control y optimización de los costos de producción e inventarios, mediante análisis financiero, conciliación de datos y elaboración de informes estratégicos para la alta gerencia.
-
-**Logros clave:**
-- 📈 Desarrollo de informes financieros ejecutivos mensuales que facilitaron la toma de decisiones estratégicas
-- ⏱️ Reducción del tiempo de procesamiento y liquidación mensual de costos de producción
-- 🤖 Automatización de reportes de costos e inventarios con Excel y Power BI
-
-**Tech stack:** Excel · Power BI · SQL
+</div>
 
 ---
 
