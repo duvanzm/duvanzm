@@ -72,19 +72,6 @@ I act as a **strategic partner** between business areas and technical teams, tra
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Data Nexus](https://github-readme-stats.vercel.app/api/pin/?username=The-Data-Nexus&repo=Data-Nexus&theme=tokyonight)](https://github.com/The-Data-Nexus/Data-Nexus)
-[![Spark S3 Financial ETL](https://github-readme-stats.vercel.app/api/pin/?username=Orion-Data-Analysis&repo=Spark_S3_Financial_ETL&theme=tokyonight)](https://github.com/Orion-Data-Analysis/Spark_S3_Financial_ETL)
-
-[![RUNdurance](https://github-readme-stats.vercel.app/api/pin/?username=Riwi-io-Medellin&repo=rundurance-integrative-project-mccarthy&theme=tokyonight)](https://github.com/Riwi-io-Medellin/rundurance-integrative-project-mccarthy)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
