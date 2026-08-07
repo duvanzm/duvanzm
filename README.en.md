@@ -95,16 +95,6 @@ I act as a **strategic partner** between business areas and technical teams, tra
 
 ---
 
-## 🎓 Education
-
-| Program | Institution | Period |
-|---|---|---|
-| Data Analysis & Engineering | RIWI.io · Medellín, Colombia | Nov 2025 – Present |
-| Full Stack Developer (Certified) | Soy Henry · Argentina | Jul 2021 – Mar 2022 |
-| Civil Engineering (5 semesters completed) | Politécnico Colombiano Jaime Isaza Cadavid · Medellín, Colombia | 2019 – 2021 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

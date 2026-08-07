@@ -95,16 +95,6 @@ Actúo como **socio estratégico** entre las áreas de negocio y los equipos té
 
 ---
 
-## 🎓 Formación Académica
-
-| Programa | Institución | Periodo |
-|---|---|---|
-| Análisis e Ingeniería de Datos | RIWI.io · Medellín, Colombia | Nov 2025 – Actualidad |
-| Full Stack Developer (Certificado) | Soy Henry · Argentina | Jul 2021 – Mar 2022 |
-| Ingeniería Civil (5 semestres cursados) | Politécnico Colombiano Jaime Isaza Cadavid · Medellín, Colombia | 2019 – 2021 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
