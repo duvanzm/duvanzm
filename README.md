@@ -41,16 +41,6 @@ Actúo como **socio estratégico** entre las áreas de negocio y los equipos té
 
 ---
 
-## 🎯 Habilidades estratégicas
-
-| Habilidad | Descripción |
-|---|---|
-| 🤝 **Business Partnering** | Traducción de necesidades de negocio en soluciones de datos y priorización de iniciativas por impacto real |
-| 💬 **Comunicación con Stakeholders** | Storytelling con datos para audiencias no técnicas y facilitación de la adopción de insights |
-| 📐 **Pensamiento analítico** | Diseño de indicadores y modelos (clustering, KPIs) orientados a decisiones de negocio |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📊 BI & Analítica

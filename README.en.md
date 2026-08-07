@@ -41,16 +41,6 @@ I act as a **strategic partner** between business areas and technical teams, tra
 
 ---
 
-## 🎯 Strategic Skills
-
-| Skill | Description |
-|---|---|
-| 🤝 **Business Partnering** | Translating business needs into data solutions and prioritizing initiatives by real impact |
-| 💬 **Stakeholder Communication** | Data storytelling for non-technical audiences and facilitating insight adoption |
-| 📐 **Analytical Thinking** | Designing indicators and models (clustering, KPIs) oriented to business decisions |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📊 BI & Analytics
